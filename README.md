@@ -2,8 +2,8 @@
 Implementing Data Structures in Python+Flask
 
 # Data Structures implemented : 
-  Linked List<b>
-  Hash Table<b>
-  Binary Search Tree<b>
-  Queue<b>
+  Linked List<br>
+  Hash Table<br>
+  Binary Search Tree<br>
+  Queue<br>
   Stack
