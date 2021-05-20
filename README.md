@@ -15,7 +15,7 @@ Run the below command in the terminal
 from server import db
 db.create_all()
 ```
-=======
+
 # Data Structures implemented : 
   Linked List<br>
   Hash Table<br>
