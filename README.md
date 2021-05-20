@@ -15,10 +15,3 @@ from server import db
 db.create_all()
 ```
 
-# Data Structures implemented : 
-  Linked List<br>
-  Hash Table<br>
-  Binary Search Tree<br>
-  Queue<br>
-  Stack
-
